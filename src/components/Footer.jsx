@@ -65,7 +65,7 @@ const Footer = () => {
 
       {/* Bottom Bar */}
       <div className="border-t border-gray-700 mt-10 pt-6 text-sm flex flex-col sm:flex-row justify-between items-center text-gray-500">
-        <p>&copy; {new Date().getFullYear()} AutoRent. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} ehab Naser. All rights reserved.</p>
         <div className="flex gap-4 mt-4 sm:mt-0">
           <a href="#" className="hover:underline">Privacy Policy</a>
           <a href="#" className="hover:underline">Terms of Service</a>
