@@ -1,12 +1,81 @@
-# React + Vite
+# 🚗 AutoRent – Car Rental Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*AutoRent* is a modern frontend web application for a car rental platform. It provides users with a clean and responsive interface to explore available cars, view vehicle details, and simulate the booking experience.
 
-Currently, two official plugins are available:
+The project focuses on modern UI/UX design, responsiveness, and smooth user interaction.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Car search section with:
+  - Pickup location
+  - Pickup date
+  - Pickup time
+  - Return date
+
+- 🚘 Featured car cards including:
+  - Car images
+  - Daily rental price
+  - Ratings
+  - Fuel type
+  - Number of seats
+  - Transmission type
+
+- 📱 Fully Responsive Design
+
+- ⚡ Clean and modern user interface
+
+- 🔐 Login and Sign Up pages UI
+
+- 🛡️ Service highlights section:
+  - Full insurance
+  - 24/7 support
+  - Instant booking
+  - Multiple locations
+
+---
+
+## 🖥️ Technologies Used
+
+- *React.js*
+- *Tailwind CSS*
+- *JavaScript (ES6+)*
+- *Responsive Design*
+
+---
+
+## 📸 Project Sections
+
+- Hero section with booking form
+- Featured cars section
+- Services & benefits section
+- Footer with quick links and contact information
+
+---
+
+## 🎯 Project Purpose
+
+This project was built to practice and demonstrate frontend development skills by creating a modern and responsive car rental website UI.
+
+---
+
+## 🚀 Run Locally
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+---
+
+## 🌐 Live Demo
+
+https://carreact1.netlify.app/
+
+---
+
+# 👨‍💻 Developed By
+
+Ehab Naser
